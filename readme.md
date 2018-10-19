@@ -15,7 +15,7 @@ Tags: KMeans, NearestNeighbors and Flask.
 
 - [Natural Language Processing](nlp/) - Tag recommendation engine for StackOverflow.
 
-Tags: NLP, Lemmatizer, Stemmer, CountVectorizer, TFIDF, NMF, LDA and Word2Vec.
+Tags: Lemmatizer, Stemmer, CountVectorizer, TFIDF, NMF, LDA and Word2Vec.
 
 
 ## Reference
