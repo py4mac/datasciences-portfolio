@@ -1,7 +1,7 @@
 
-# Customer Segmentation Project
+# Movie Recommendation Engine Project
 
-This project aims to segment customer based on their transactions.
+This project aims to build movie recommendation engine.
 
 ## Project structure
 
