@@ -9,13 +9,19 @@ This project aims to deliver an overview of academic project realised during my 
 
 Tags: KMeans, PCA, XGBoost, RandomForestClassifier, HyperOpt and Flask.
 
+![Clustering](https://raw.githubusercontent.com/py4mac/datasciences-portfolio/master/clustering/img/presentation.png)
+
 - [Movies recommendation engine](recommendation_engine/) - Movies recommendation engine.
 
 Tags: KMeans, NearestNeighbors and Flask.
 
+![Clustering](https://raw.githubusercontent.com/py4mac/datasciences-portfolio/master/recommendation_engine/img/presentation.png)
+
 - [Natural Language Processing](nlp/) - Tag recommendation engine for StackOverflow.
 
 Tags: Lemmatizer, Stemmer, CountVectorizer, TFIDF, NMF, LDA and Word2Vec.
+
+![Clustering](https://raw.githubusercontent.com/py4mac/datasciences-portfolio/master/nlp/img/presentation.png)
 
 
 ## Reference
