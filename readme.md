@@ -5,6 +5,12 @@ This project aims to deliver an overview of academic project realised during my 
 
 ## Project structure
 
+- [Convolutional Neural Network](cnn/) - Dog breed classifier. 
+
+Tags: OpenCV, Keras and HyperOpt.
+
+![Convolutional Neural Network](https://raw.githubusercontent.com/py4mac/datasciences-portfolio/master/cnn/img/presentation.png)
+
 - [Clustering](clustering/) - Customer Segmentation. 
 
 Tags: KMeans, PCA, XGBoost, RandomForestClassifier, HyperOpt and Flask.
