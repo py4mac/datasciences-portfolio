@@ -5,11 +5,17 @@ This project aims to deliver an overview of academic project realised during my 
 
 ## Project structure
 
-- [Convolutional Neural Network](cnn/) - Dog breed classifier. 
+- [Convolutional Neural Network](cnn/) - Dog breed classifier using CNN. 
 
-Tags: OpenCV, Keras and HyperOpt.
+Tags: OpenCV, Keras, GridSearchCV and HyperOpt.
 
 ![Convolutional Neural Network](https://raw.githubusercontent.com/py4mac/datasciences-portfolio/master/cnn/img/presentation.png)
+
+- [Visual Bag Of Words](cnn/) - Dog breed classifier using SIFT extraction. 
+
+Tags: OpenCV and SIFT.
+
+![Convolutional Neural Network](https://raw.githubusercontent.com/py4mac/datasciences-portfolio/master/cnn/img/sift.png)
 
 - [Clustering](clustering/) - Customer Segmentation. 
 
