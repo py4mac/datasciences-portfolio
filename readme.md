@@ -5,6 +5,13 @@ This project aims to deliver an overview of academic project realised during my 
 
 ## Project structure
 
+- [TimeSeries](timeseries/) - Implement time series forecast model using FBProphet. 
+
+Tags: FBProphet and HyperOpt.
+
+![TimeSeries](https://raw.githubusercontent.com/py4mac/datasciences-portfolio/master/timeseries/img/presentation.png)
+
+
 - [Convolutional Neural Network](cnn/) - Dog breed classifier using CNN. 
 
 Tags: OpenCV, Keras, GridSearchCV and HyperOpt.
